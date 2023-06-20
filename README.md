@@ -8,4 +8,4 @@ En conclusió, la implementació d'aquest sistema de detecció de mans ha demost
 # Vídeo de demostraació
 <div align="center">
 [![Video de ejemplo](https://i.ytimg.com/an_webp/NJEDLqp6sXE/mqdefault_6s.webp?du=3000&sqp=CNiSx6QG&rs=AOn4CLDyAAep5lW5fusbqCtLUwcNNcPZUw)](https://www.youtube.com/watch?v=NJEDLqp6sXEhttps://www.youtube.com/watch?v=NJEDLqp6sXE)
-<\div>
+<div>
