@@ -5,4 +5,7 @@ Els resultats de les proves i avaluacions realitzades mostren que el sistema imp
 
 En conclusió, la implementació d'aquest sistema de detecció de mans ha demostrat ser una solució efectiva per a la millora de la interacció amb entorns virtuals. I pot ser molt prometedora quan es millori la precisió.   
 
+# Vídeo de demostraació
+<div align="center">
 [![Video de ejemplo](https://i.ytimg.com/an_webp/NJEDLqp6sXE/mqdefault_6s.webp?du=3000&sqp=CNiSx6QG&rs=AOn4CLDyAAep5lW5fusbqCtLUwcNNcPZUw)](https://www.youtube.com/watch?v=NJEDLqp6sXEhttps://www.youtube.com/watch?v=NJEDLqp6sXE)
+<\div>
