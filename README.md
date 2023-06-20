@@ -5,4 +5,4 @@ Els resultats de les proves i avaluacions realitzades mostren que el sistema imp
 
 En conclusió, la implementació d'aquest sistema de detecció de mans ha demostrat ser una solució efectiva per a la millora de la interacció amb entorns virtuals. I pot ser molt prometedora quan es millori la precisió.   
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NJEDLqp6sXE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![—Pngtree—overlay facecam webcam twitch frame_6586880](https://github.com/mcamarillas/TFG-FIB-HandTrackingTeleoperatingSystem/assets/58046161/123bdc86-989a-43f8-9563-415b779ba08c)
