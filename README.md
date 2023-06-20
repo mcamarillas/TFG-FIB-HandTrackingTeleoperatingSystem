@@ -9,4 +9,4 @@ En conclusió, la implementació d'aquest sistema de detecció de mans ha demost
 [![Video de ejemplo](https://i.ytimg.com/an_webp/NJEDLqp6sXE/mqdefault_6s.webp?du=3000&sqp=CNiSx6QG&rs=AOn4CLDyAAep5lW5fusbqCtLUwcNNcPZUw)](https://www.youtube.com/watch?v=NJEDLqp6sXEhttps://www.youtube.com/watch?v=NJEDLqp6sXE)
 
 # Memòria
-[Memoria.pdf](https://github.com/mcamarillas/TFG-FIB-HandTrackingTeleoperatingSystem/assets/58046161/e61dbc1c-2f0b-4a26-801e-5c75afe05892)(https://github.com/mcamarillas/TFG-FIB-HandTrackingTeleoperatingSystem/files/11803440/Memoria-marc.camarillas.3.pdf)
+[![Memoria.pdf](https://github.com/mcamarillas/TFG-FIB-HandTrackingTeleoperatingSystem/assets/58046161/e61dbc1c-2f0b-4a26-801e-5c75afe05892)](https://github.com/mcamarillas/TFG-FIB-HandTrackingTeleoperatingSystem/files/11803440/Memoria-marc.camarillas.3.pdf)
