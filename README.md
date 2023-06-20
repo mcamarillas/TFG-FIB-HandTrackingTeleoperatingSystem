@@ -4,3 +4,5 @@ Aquest projecte presenta la implementació d'un sistema avançat per a la detecc
 Els resultats de les proves i avaluacions realitzades mostren que el sistema implementat no ha aconseguit una gran precisió, fet que caldrà millorar en futurs treballs, però si que s'ha aconseguit un temps de resposta ràpid. Els usuaris han pogut interactuar de manera fluida amb l'escena virtual, creant una experiència enriquidora i satisfactòria. Actualment les aplicacions d'aquest sistema es basen en l'àmbit dels videojocs i la simulació. Aquesta tecnologia pot millorar la interacció humà-màquina, proporcionant nous nivells d'immersió.
 
 En conclusió, la implementació d'aquest sistema de detecció de mans ha demostrat ser una solució efectiva per a la millora de la interacció amb entorns virtuals. I pot ser molt prometedora quan es millori la precisió.   
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NJEDLqp6sXE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
